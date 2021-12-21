@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatIsHot</string>
+    <string name="no_network_connectivity">No Network Connectivity</string>
+    <string name="items_toolbar_title">Sephora</string>
+    <string name="items_image_description">track image</string>
+    <string name="items_image_filter_description">open close filter</string>
+    <string name="items_toolbar_search_title">Search</string>
+    <string name="items_filter_sort_popularity_title">Popularity</string>
+    <string name="items_filter_sort_duration_title">Duration</string>
+    <string name="items_filter_sort_downloads_title">Downloads</string>
+    <string name="items_search_hint">Search for items</string>
+</resources>

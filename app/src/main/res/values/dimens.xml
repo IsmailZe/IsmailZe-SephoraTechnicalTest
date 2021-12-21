@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin & padding -->
+    <dimen name="margin_padding_p0">4dp</dimen>
+    <dimen name="margin_padding_p1">8dp</dimen>
+    <dimen name="margin_padding_p2">12dp</dimen>
+    <dimen name="margin_padding_p3">16dp</dimen>
+    <dimen name="margin_padding_p4">24dp</dimen>
+
+    <!-- Sizes -->
+    <dimen name="size_18">18dp</dimen>
+    <dimen name="size_24">24dp</dimen>
+    <dimen name="size_32">32dp</dimen>
+    <dimen name="size_track_image">80dp</dimen>
+
+    <!--Texts Sizes -->
+    <dimen name="text_size_16">16sp</dimen>
+
+    <!--view Sizes -->
+    <dimen name="image_elevation">32dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="image_size">64dp</dimen>
+    <dimen name="flow_elevation">16dp</dimen>
+
+    <!--fab Sizes -->
+    <dimen name="fab_size">64dp</dimen>
+    <dimen name="fab_radius">36dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_elevation">16dp</dimen>
+
+
+
+
+</resources>
